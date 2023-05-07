@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/6c/6a/28/6c6a28804730112b8444ca897eae0413.jpg)
 <h1 align="center">Hi 👋, I'm Meetkumar Mori</h1>
 <h3 align="center">Data Analysis and Data Science Enthusiast (ML || DL || NLP || Visualization)</h3>
-<img align="right" width ="600" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" width ="500" height="230" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet5398&label=Profile%20views&color=0e75b6&style=flat" alt="meet5398" /> </p>
 
@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **meetmori5398140@gmail.com**
 
-- ⚡ Fun fact **I love playing Basket Ball**
-
+- ⚡ Fun fact **I love playing BasketBall**
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet5398" alt="meet5398" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
