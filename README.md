@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/6c/6a/28/6c6a28804730112b8444ca897eae0413.jpg)]
+![MasterHead](https://i.pinimg.com/originals/6c/6a/28/6c6a28804730112b8444ca897eae0413.jpg)
 <h1 align="center">Hi 👋, I'm Meetkumar Mori</h1>
 <h3 align="center">Data Analysis and Data Science Enthusiast (ML || DL || NLP || PowerBi)</h3>
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
