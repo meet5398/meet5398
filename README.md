@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/6c/6a/28/6c6a28804730112b8444ca897eae0413.jpg)
 <h1 align="center">Hi 👋, I'm Meetkumar Mori</h1>
 <h3 align="center">Data Analysis and Data Science Enthusiast (ML || DL || NLP || Visualization)</h3>
-<img align="right" width ="240" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" width ="600" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet5398&label=Profile%20views&color=0e75b6&style=flat" alt="meet5398" /> </p>
 
