@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet5398&label=Profile%20views&color=0e75b6&style=flat" alt="meet5398" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet5398" alt="meet5398" /></a> </p>
+
 
 - 🌱 I’m currently learning **TensorFlow , Pytorch**
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **meetmori5398140@gmail.com**
 
 - ⚡ Fun fact **I love playing Basket Ball**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet5398" alt="meet5398" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
